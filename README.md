@@ -4,7 +4,7 @@
 # Final product
 Link to Tableau Viz: https://public.tableau.com/app/profile/brandon.tran6093/vizzes
 
-![alt text](finaldashboard.png?raw=true "Title")
+![alt text](FinalDashboard.png?raw=true "Title")
 
 # Goal
 Scrape trustpilot for reviews on a company and perform analysis of reviews to determine common faults, common praises, ratings trend, and overall sentiment of company.
